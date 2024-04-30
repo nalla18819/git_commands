@@ -7,6 +7,7 @@ Below are the command I most use in my daily work.
 | Commands | Description |
 | --------   ----------- |    
 | init     |  Initial the local repo       | 
+--------------------------------------
 | clone    |  clone/download the remote repo to local
 | add      |  add files to stage area  
 | commit   |  commit the changes to push to remote repo
